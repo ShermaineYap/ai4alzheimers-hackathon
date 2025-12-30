@@ -1,0 +1,12 @@
+{
+  "accuracy": 0.683,
+  "precision": 0.5454,
+  "recall": 0.683,
+  "f1_score": 0.5733,
+  "num_models": 3,
+  "img_size": 128,
+  "total_images": 14988,
+  "high_risk_count": 222,
+  "uncertainty_correct": 0.0842,
+  "uncertainty_incorrect": 0.1066
+}

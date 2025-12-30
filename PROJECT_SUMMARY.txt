@@ -1,0 +1,33 @@
+AI4ALZHEIMERS PROJECT SUMMARY
+
+RESULTS:
+- Accuracy: 68.30%
+- Precision: 54.54%
+- Recall: 68.30%
+- F1-Score: 57.33%
+- High-risk flagged: 222 (9.9%)
+
+MODELS:
+- ResNet50 #1: 68.91%
+- EfficientNet: 66.73%
+- ResNet50 #2: 70.15%
+- Ensemble: 68.30%
+
+DATASET:
+- Total: 14,988 images
+- Train: 10,491
+- Val: 2,248
+- Test: 2,249
+
+INNOVATION:
+- CPU-optimized (no GPU required)
+- Uncertainty quantification
+- Risk stratification
+- <2 hour training time
+
+FILES GENERATED:
+✓ 3 trained models
+✓ Confusion matrix
+✓ Summary figure (4-panel)
+✓ Complete report
+✓ Metrics JSON
